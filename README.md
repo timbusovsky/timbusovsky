@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello!  My name is Tim and I am beginning the Part Time Bootcamp at Tech Elevator in August 2023.  I'm looking forward to learning how to program and to collaborating with other students on future projects.
+Hello!  My name is Tim and I am beginning the Part Time Bootcamp at Tech Elevator in August 2023.  I'm looking forward to the cohort and am eager to get started.
