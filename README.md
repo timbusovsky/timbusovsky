@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello!  My name is Tim and I am beginning the Part Time Bootcamp at Tech Elevator in August 2023.  I'm looking forward to the cohort and am eager to get started.
+Hello!  My name is Tim and I graduated the Part Time Bootcamp at Tech Elevator in April 2024.  I have been working on a command line application that allows a user to log words and their definitions for their specific account.  The application is written in Java and connects to a database written in SQL.
