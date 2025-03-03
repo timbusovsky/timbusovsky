@@ -22,8 +22,8 @@ I have also been working om a full stack web application that that allows a user
 To run the application locally:
 
 1. Pull both the TSFBD abd TSFBD-Client repositories
-2. Execute the SQL script available in TSFBD titled "Master SQL" in a database management application to create a database of albums, songs, and lyrics. The default passwword for the database is: postgres1
+2. Execute the SQL script available in TSFBD titled "Master SQL" in a database management application to create a database of albums, songs, and lyrics. The default name of the database is: ITDB. The default passwword for the database is: postgres1
 3. Open the TSFBD folder in an IDE such as IntelliJ and start the server
 4. Open the TSFBD-Client folder in Visual Studio Code
-5. Launch the client using the command: npm run dev
-6. The local app should now connect to the local server and database
+5. Launch the client in the command prompt using the command: npm run dev
+6. The local app should now connect to the local server and database and launch a web browser to display the site
