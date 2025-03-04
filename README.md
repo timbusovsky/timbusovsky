@@ -20,6 +20,7 @@ Hello!  My name is Tim and I graduated from the Part Time Virtual Bootcamp at Te
 I have also been working on a full stack web application that that allows a user to enter a Taylor Swift Friendship Bracelet acronym into a text field input, and returns the album title, song title, and lyrics that the input acronym corresponds to. The page background color also changes to reflect the predominant color for each respective album era. Backend written in SQL and Java using pgAdmin, IntelliJ IDEA, and Spring. Frontend written in HTML, CSS, and JavaScript using Visual Studio Code and Vue.js. Both the server and client code are publically available at:
 
 https://github.com/timbusovsky/TSFBD
+
 https://github.com/timbusovsky/TSFBD-Client
 
 To run the application locally:
