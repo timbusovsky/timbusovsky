@@ -27,3 +27,11 @@ To run the application locally:
 4. Open the TSFBD-Client folder in Visual Studio Code
 5. Launch the client in the command prompt using the command: npm run dev
 6. The local app should now connect to the local server and database and launch a web browser to display the site
+
+Additionally, I've been learning to program with the Unity Engine using C#. My basic profile can be seen using the following URL:
+
+https://learn.unity.com/u/673d1803edbc2a1bdc79ad40?tab=profile
+
+Unity's learning program includes a challenge called "Mod the Cube". The purpose of the excercise is to add at least three variations to the rotating cube in the given files. I edited the code so that each time the application launches, the cube has a randomly generated color, speed, size, and rotation type. You can run the application with the link below. Please refresh your browser and relaunch the application to see the randomly genereated changes:
+
+https://play.unity.com/en/games/a0b4c8ef-8192-4123-b798-4ac2d03aa98f/mod-the-cube
